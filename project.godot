@@ -11,6 +11,5 @@ config_version=5
 [application]
 
 config/name="gdcv"
-run/main_scene="uid://7jshkqw4jtng"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
